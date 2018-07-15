@@ -6,3 +6,5 @@ I couldn't find ready examples of this, so I made my own. Key points:
   `"staticlib"`;
 - when linking, add `-lphtread -ldl`, which are required by Rust's static
   library but aren't linked into it by `rustc`.
+
+Tested with Rust 1.27.1.
