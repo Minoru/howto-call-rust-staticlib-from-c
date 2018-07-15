@@ -1,0 +1,10 @@
+[package]
+name = "rustlib"
+version = "0.1.0"
+authors = ["Alexander Batischev <eual.jp@gmail.com>"]
+
+[dependencies]
+
+[lib]
+name = "rustlib"
+crate-type = ["staticlib"]
