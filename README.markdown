@@ -1,3 +1,7 @@
+This repository is **DEPRECATED** in favour of [Alex Crichton's "Rust FFI
+examples"](https://github.com/alexcrichton/rust-ffi-examples), which offers
+worked code not just for C, but also C++, Haskell, Julia, Python, and more.
+
 How to call a function defined in Rust static library from C
 ============================================================
 
